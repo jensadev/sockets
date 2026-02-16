@@ -9,3 +9,5 @@ En enkelt server och klient som kommunicerar över nätverket. Servern skickar e
 3. Medel: Låt servern räkna antal meddelanden från varje klient
 4. Svårare: Lägg till en broadcast-funktion (skicka till alla anslutna klienter)
 5. Utmaning: Skapa ett enkelt chattrum
+
+https://www.geeksforgeeks.org/python/python-network-programming/
